@@ -1,0 +1,9 @@
+# 파이썬 / 환경
+__pycache__/
+*.pyc
+.venv/
+venv/
+ 
+# 로그/결과물
+*.log
+error.txt
